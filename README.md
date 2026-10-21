@@ -26,7 +26,7 @@ Código das **missões** (exercícios) do curso gratuito de Python do CycleClass
 |---|---|---|---|
 | 01 | O curso e o resumão da Lógica | [assistir](https://youtu.be/aQLlNOdc5Bo) | sem missões |
 | 02 | Instalando o Thonny no Windows, macOS e Linux | [assistir](https://youtu.be/7lbbJTOxmNM) | sem missões |
-| 03 | Primeiro programa: print | em breve | 01 Cartão de visita · 02 Placa do plantão · 03 Arte em texto |
+| 03 | Primeiro programa: print | [assistir](https://youtu.be/lTgoyFR6O0k) | 01 Cartão de visita · 02 Placa do plantão · 03 Arte em texto |
 
 ---
 
