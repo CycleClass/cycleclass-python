@@ -28,7 +28,7 @@ Código das **missões** (exercícios) do curso gratuito de Python do CycleClass
 | 02 | Instalando o Thonny no Windows, macOS e Linux | [assistir](https://youtu.be/7lbbJTOxmNM) | sem missões |
 | 03 | Primeiro programa: print | [assistir](https://youtu.be/lTgoyFR6O0k) | 01 Cartão de visita · 02 Placa do plantão · 03 Arte em texto |
 | 04 | Variáveis e tipos | [assistir](https://youtu.be/UvHxUPR6NG8) | 04 Ficha do plantonista · 05 Troca de turno · 06 Detetive de tipos |
-| 05 | Entrada de dados e conversão: input, int, float e f-strings | em breve | 07 Recepção · 08 Máquina do tempo · 09 Conta do café |
+| 05 | Entrada de dados e conversão: input, int, float e f-strings | [assistir](https://youtu.be/NeHYeOXcPAs) | 07 Recepção · 08 Máquina do tempo · 09 Conta do café |
 
 ---
 
