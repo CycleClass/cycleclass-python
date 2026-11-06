@@ -7,7 +7,7 @@ Código das **missões** (exercícios) do curso gratuito de Python do CycleClass
 ## Como usar
 
 - Cada aula tem uma pasta (`aula-03`, `aula-04`, …) com a resolução das 3 missões dela.
-- Tente resolver sozinho primeiro! A resolução sai em vídeo no dia seguinte à aula, e o código aparece aqui no mesmo dia.
+- Tente resolver sozinho primeiro! A partir da Aula 05, a resolução vem no final da própria aula, e o código aparece aqui no mesmo dia.
 - Para rodar: abra o arquivo `.py` no [Thonny](https://thonny.org) e aperte **F5**. A instalação está na Aula 02.
 
 ## O curso
@@ -28,6 +28,7 @@ Código das **missões** (exercícios) do curso gratuito de Python do CycleClass
 | 02 | Instalando o Thonny no Windows, macOS e Linux | [assistir](https://youtu.be/7lbbJTOxmNM) | sem missões |
 | 03 | Primeiro programa: print | [assistir](https://youtu.be/lTgoyFR6O0k) | 01 Cartão de visita · 02 Placa do plantão · 03 Arte em texto |
 | 04 | Variáveis e tipos | [assistir](https://youtu.be/UvHxUPR6NG8) | 04 Ficha do plantonista · 05 Troca de turno · 06 Detetive de tipos |
+| 05 | Entrada de dados e conversão: input, int, float e f-strings | em breve | 07 Recepção · 08 Máquina do tempo · 09 Conta do café |
 
 ---
 
