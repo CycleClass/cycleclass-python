@@ -30,6 +30,7 @@ Código das **missões** (exercícios) do curso gratuito de Python do CycleClass
 | 04 | Variáveis e tipos | [assistir](https://youtu.be/UvHxUPR6NG8) | 04 Ficha do plantonista · 05 Troca de turno · 06 Detetive de tipos |
 | 05 | Entrada de dados e conversão: input, int, float e f-strings | [assistir](https://youtu.be/NeHYeOXcPAs) | 07 Recepção · 08 Máquina do tempo · 09 Conta do café |
 | 06 | Operadores e contas: + - * / // % ** e round() | [assistir](https://youtu.be/3JoZS3uNnA0) | 10 Pizza justa · 11 Conta de luz · 12 Bhaskara, parte 1 |
+| 07 | Textos (strings): len, upper, lower, strip, replace, in e fatiamento | [assistir](https://youtu.be/QezgjRVpayo) | 13 Gerador de crachá · 14 Raio-X da senha · 15 Fábrica de hashtag |
 
 ---
 
